@@ -8,7 +8,7 @@ Regular Updates: Siwamking1 is committed to maintaining and enhancing this repos
 
 ## **How to Use:**
 
-Here's a step-by-step guide to cloning the repository and running the `skgen.py` script in both Termux (Android) and Linux:
+Here's a step-by-step guide to cloning the repository and running the `sk.py` script in Termux:
 
 **Termux (Android):**
 
