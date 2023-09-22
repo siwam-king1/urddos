@@ -23,11 +23,14 @@ Open Termux and run the following command:
    pkg install golang
    git clone https://github.com/siwam-king1/urddos.git
    cd urddos
+   pkg install python
+   pkg install python-pip
+   pip install colorama
    python sk.py
    ```
 Single Line Code For Termux  :
    ```bash
-pkg update && pkg upgrade && pkg install git && pkg install golang && git clone https://github.com/siwam-king1/urddos.git && cd urddos && python sk.py
+pkg update && pkg upgrade && pkg install git golang && git clone https://github.com/siwam-king1/urddos.git && cd urddos && pkg install python python-pip && pip install colorama && python sk.py
    ```
 
 If already clonned in Termux  :
