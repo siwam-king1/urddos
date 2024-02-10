@@ -7,7 +7,8 @@ User-Friendly Interface: While being a powerful tool, DDoS Attack also maintains
 Regular Updates: Siwamking1 is committed to maintaining and enhancing this repository. Regular updates will bring new features, performance improvements, and bug fixes based on user feedback.
 
 ## **How to Use:**
-
+USERNAME :- siwamking1
+PASSWORD :- urddos
 Here's a step-by-step guide to cloning the repository and running the `sk.py` script in Termux:
 
 **Termux (Android):**
